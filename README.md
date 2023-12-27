@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed ElHelaly</h1>
-<h3 align="center">I'm a fullstack developer</h3>
+<h3 align="center">I'm a asp.net core fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netninjaengineer&label=Profile%20views&color=0e75b6&style=flat" alt="netninjaengineer" /> </p>
 
