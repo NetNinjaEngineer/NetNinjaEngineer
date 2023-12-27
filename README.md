@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed ElHelaly</h1>
-<h3 align="center">Iam a Fullstack Developer From Egypt</h3>
+<h3 align="center">I'm a fullstack developer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netninjaengineer&label=Profile%20views&color=0e75b6&style=flat" alt="netninjaengineer" /> </p>
 
-- 🌱 I’m currently learning **.Net Core**
+- 🌍 I'm From Egypt 🇪🇬
 
-- 💬 Ask me about **.Net Core**
+- 🌱 I’m currently learning **ASP.NET CORE**
 
-- 📫 How to reach me **me5260287@gmail.com**
+- 🖥️  All of my projects are available at [https://github.com/NetNinjaEngineer](https://github.com/NetNinjaEngineer)
 
-- ⚡ Fun fact **Iam Funny**
+- 📫 You can reach me **me5260287@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
