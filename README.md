@@ -1,61 +1,43 @@
-<h1 align="center">Hi 👋, I'm Mohamed ElHelaly</h1>
-<h3 align="center">I'm an ASP.NET CORE Fullstack Developer</h3>
+<!-- Add Google Fonts link in your Markdown -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
-<p align="center">
+<h1 align="left" style="font-family: 'Roboto', sans-serif;">Hi 👋, I'm Mohamed ElHelaly</h1>
+<h3 align="left" style="font-family: 'Roboto', sans-serif;">I'm a ASP.NET Core Fullstack Developer</h3>
+
+<p align="left" style="font-family: 'Roboto', sans-serif;">
   🌍 I'm From Egypt 🇪🇬 <br>
-  🌱 Currently learning **ASP.NET CORE** <br>
+  🌱 Currently learning **ASP.NET Core** <br>
   🖥️ All of my projects are available at <a href="https://github.com/NetNinjaEngineer">My GitHub</a> <br>
   📫 Reach me at **me5260287@gmail.com**
 </p>
 
-<p align="center">
-  📱 Contact me via WhatsApp: <a href="https://wa.me/201234567890">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
-  </a>
-</p>
-
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left" style="font-family: 'Roboto', sans-serif;">Connect with me:</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/mohamed-elhelaly-251a33223/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/mohamed.elhelaly.50951/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://wa.me/201234567890" target="blank">
+  <a href="https://wa.me/201145753861" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left" style="font-family: 'Roboto', sans-serif;">Languages and Tools:</h3>
+<p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" alt=".NET" width="40" height="40"/>
   </a>
-  <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/ASP.NET_Core_Logo.svg" alt="ASP.NET Core" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/ef/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ef/ef-original.svg" alt="Entity Framework Core" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/linq/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linq/linq-original.svg" alt="LINQ" width="40" height="40"/>
-  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="SQL Server" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SSMS" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/sql/azure-data-studio" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="Azure Data Studio" width="40" height="40"/>
   </a>
   <a href="https://redis.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
