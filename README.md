@@ -81,7 +81,7 @@
   <a href="https://wa.me/201145753861" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
   </a>
-  <a href="https://t.me/@muhamedelhelaly" target="blank">
+  <a href="https://t.me/muhamedelhelaly" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40"/>
   </a>
 </p>
