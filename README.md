@@ -1,20 +1,28 @@
 <!-- Add Google Fonts link in your Markdown -->
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
-<h1 align="left" style="font-family: 'Roboto', sans-serif;">Hi 👋, I'm Mohamed ElHelaly</h1>
-<h3 align="left" style="font-family: 'Roboto', sans-serif;">I'm a ASP.NET Core Fullstack Developer</h3>
+<h1 style="font-family: 'Roboto', sans-serif; font-size: 2.5em; text-align: left; color: #333;">Hi 👋, I'm Mohamed ElHelaly</h1>
+<h3 style="font-family: 'Roboto', sans-serif; font-size: 1.75em; text-align: left; color: #555;">I'm an ASP.NET Core Fullstack Developer</h3>
 
-<p align="left" style="font-family: 'Roboto', sans-serif;">
-  🌍 I'm From Egypt 🇪🇬 <br>
-  🌱 Currently learning **ASP.NET Core** <br>
-  🖥️ All of my projects are available at <a href="https://github.com/NetNinjaEngineer">My GitHub</a> <br>
-  📫 Reach me at **me5260287@gmail.com**
+<p style="font-family: 'Roboto', sans-serif; text-align: left; line-height: 1.6; color: #333;">
+  🌍 <strong>I'm From Egypt</strong> 🇪🇬 <br>
+  🌱 <strong>Currently learning</strong> <em>ASP.NET Core</em> <br>
+  🖥️ All of my projects are available at <a href="https://github.com/NetNinjaEngineer" style="color: #1e90ff; text-decoration: none;">My GitHub</a> <br>
+  📫 Reach me at <strong>me5260287@gmail.com</strong>
 </p>
 
 ---
 
-<h3 align="left" style="font-family: 'Roboto', sans-serif;">Connect with me:</h3>
-<p align="left">
+<h3 style="font-family: 'Roboto', sans-serif; font-size: 1.75em; text-align: left; color: #555;">About Me</h3>
+
+<p style="font-family: 'Roboto', sans-serif; text-align: left; line-height: 1.6; color: #333;">
+  Hi! I'm Mohamed ElHelaly, a passionate ASP.NET Core Fullstack Developer from Egypt. With a keen interest in software development and a drive to continuously learn and grow, I specialize in building scalable and efficient web applications using the latest technologies.
+</p>
+
+---
+
+<h3 style="font-family: 'Roboto', sans-serif; font-size: 1.75em; text-align: left; color: #555;">Connect with me:</h3>
+<p style="text-align: left;">
   <a href="https://www.linkedin.com/in/mohamed-elhelaly-251a33223/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -28,8 +36,8 @@
 
 ---
 
-<h3 align="left" style="font-family: 'Roboto', sans-serif;">Languages and Tools:</h3>
-<p align="left">
+<h3 style="font-family: 'Roboto', sans-serif; font-size: 1.75em; text-align: left; color: #555;">Tech Stack:</h3>
+<p style="text-align: left;">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40"/>
   </a>
