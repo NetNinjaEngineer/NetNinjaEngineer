@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C#" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" alt=".NET" width="40" height="40"/>
   </a>
   <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/ASP.NET_Core_Logo.svg" alt="ASP.NET Core" width="40" height="40"/>
@@ -49,7 +49,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linq/linq-original.svg" alt="LINQ" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL Server" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="SQL Server" width="40" height="40"/>
   </a>
   <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SSMS" width="40" height="40"/>
