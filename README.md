@@ -40,16 +40,25 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
   </a>
   <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original-wordmark.svg" alt="ASP.NET Core" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/ASP.NET_Core_Logo.svg" alt="ASP.NET Core" width="40" height="40"/>
   </a>
   <a href="https://docs.microsoft.com/en-us/ef/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Entity_Framework_Core_logo.svg" alt="Entity Framework Core" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ef/ef-original.svg" alt="Entity Framework Core" width="40" height="40"/>
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/linq/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Linq.svg" alt="LINQ" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linq/linq-original.svg" alt="LINQ" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SSMS" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/sql/azure-data-studio" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="Azure Data Studio" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -73,7 +82,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
   </a>
   <a href="https://www.nuget.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/NuGet_Icon.png" alt="NuGet" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg" alt="NuGet" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
