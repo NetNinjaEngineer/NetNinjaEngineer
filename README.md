@@ -2,7 +2,7 @@
 
 ## <span style="font-family: 'Roboto', sans-serif;">🚀 Fullstack ASP.NET Core & Angular Developer</span>
 
-### <span style="font-family: 'Roboto', sans-serif;">🌍 About Me</span>
+### <span style="font-family: 'Roboto', sans-serif;">🌍 About me</span>
 Hi, I’m Mohamed ElHelaly, a passionate ASP.NET Core Fullstack Developer based in Egypt. With extensive experience in both backend and frontend technologies, I focus on creating high-performing, scalable web applications. From developing robust APIs with ASP.NET Core to building intuitive, responsive interfaces using Angular, I pride myself on crafting solutions that not only meet but exceed user expectations. My goal is to create efficient, reliable software that delivers tangible results, enhances user experience, and contributes to long-term project success. I'm constantly honing my skills to stay ahead of industry trends and deliver cutting-edge solutions.
 
 ### <span style="font-family: 'Roboto', sans-serif;">🚀 Tech Stack</span>
@@ -40,7 +40,7 @@ Hi, I’m Mohamed ElHelaly, a passionate ASP.NET Core Fullstack Developer based 
 ![MediatR](https://img.shields.io/badge/MediatR-2D68A5?style=for-the-badge&logo=mediatR&logoColor=white)
 ![CQRS](https://img.shields.io/badge/CQRS-02B1A7?style=for-the-badge&logo=cqrs&logoColor=white)
 
-### <span style="font-family: 'Roboto', sans-serif;">📫 Connect with Me</span>
+### <span style="font-family: 'Roboto', sans-serif;">📫 Connect with me</span>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elhelaly-251a33223/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.elhelaly.50951/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201145753861)
