@@ -50,34 +50,3 @@ Hi, I’m Mohamed ElHelaly, a passionate ASP.NET Core Fullstack Developer based 
 
 ### <span style="font-family: 'Roboto', sans-serif;">📊 GitHub Stats</span>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=netninjaengineer&show_icons=true&locale=en&layout=compact)
-Explanation of Updates:
-Design Patterns: Represents your knowledge of various design patterns like Singleton, Factory, Strategy, etc.
-SOLID Principles: The five principles for object-oriented design.
-Clean Architecture: A software architecture pattern for writing clean and maintainable code.
-N-Tier Architecture: A software architecture pattern where the application is divided into multiple tiers (layers).
-3-Tier Architecture: A variant of N-Tier architecture with the application divided into three layers: Presentation, Business Logic, and Data.
-Database Mapping: For ORM (Object-Relational Mapping) techniques and database management.
-Caching: Techniques for improving application performance by storing frequently accessed data.
-Logging: Keeping track of application behavior and errors for debugging and monitoring.
-SignalR: Real-time web functionality used to send data to clients instantly.
-MVC: Model-View-Controller
-
-
-
-
-
-
-
-
-
-
-### <span style="font-family: 'Roboto', sans-serif;">📫 Connect with Me</span>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elhelaly-251a33223/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NetNinjaEngineer)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.elhelaly.50951/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201145753861)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Muhamed_ElHelaly)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me5260287@gmail.com)
-
-### <span style="font-family: 'Roboto', sans-serif;">📊 GitHub Stats</span>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=netninjaengineer&show_icons=true&locale=en&layout=compact)
