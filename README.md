@@ -39,6 +39,9 @@ Hi, I’m Mohamed ElHelaly, a passionate ASP.NET Core Fullstack Developer based 
 ![Razor Pages](https://img.shields.io/badge/Razor%20Pages-5194F6?style=for-the-badge&logo=razor&logoColor=white)
 ![MediatR](https://img.shields.io/badge/MediatR-2D68A5?style=for-the-badge&logo=mediatR&logoColor=white)
 ![CQRS](https://img.shields.io/badge/CQRS-02B1A7?style=for-the-badge&logo=cqrs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FF5733?style=for-the-badge&logo=typeorm&logoColor=white)
+
 
 ### <span style="font-family: 'Roboto', sans-serif;">📫 Connect with me</span>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elhelaly-251a33223/)
