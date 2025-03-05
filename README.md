@@ -3,8 +3,9 @@
 # <span style="font-size: 48px; color: #1E90FF; text-shadow: 2px 2px 4px #000;">Hi 👋, I’m Mohamed ElHelaly</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="animation: wave 1.5s infinite;" />
 
 ## <span style="font-size: 36px; background: linear-gradient(45deg, #4A90E2, #50C878, #FF6B6B, #4A90E2); background-size: 400% 400%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 10s ease infinite; text-shadow: 1px 1px 3px #000;">🚀 Fullstack ASP.NET Core & Angular Developer</span> 
-<img src="https://komarev.com/ghpvc/?username=netninjaengineer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="animation: pulse 2s infinite;" />
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=netninjaengineer&color=blueviolet" alt="Profile Views" style="animation: pulse 3s infinite;" />
+</div>
 <div style="font-size: 24px; color: #FF4500; animation: fadeIn 2s ease-in;">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=1E90FF&center=true&width=600&lines=Passionate+.NET+Developer;Full+Stack+Web+Engineer;Creating+Scalable+Solutions;Innovative+Problem+Solver" alt="Typing SVG" />
 </div>
@@ -62,10 +63,4 @@ Hi, I'm **Mohamed ElHelaly**, a passionate ASP.NET Core Fullstack Developer base
 
 <div align="center" style="animation: pulse 6s infinite;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=netninjaengineer&theme=radical" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=netninjaengineer&color=blueviolet" alt="Profile Views" style="animation: pulse 3s infinite;" />
 </div>
